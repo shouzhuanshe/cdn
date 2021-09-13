@@ -1,0 +1,23 @@
+/* erx@qq.com 2021/05/08 */
+
+.zhi_grid .grid_price .biz30day{position:absolute;top:9px;right:0;}
+.grid-quan .type-2-link{border-radius:0 !important;}
+.grid-home .grid_buy_btn{bottom:49px;width:100px;height:32px;line-height:32px;border-radius:0;}
+.grid-home .grid_buy_btn span{width:auto;line-height:inherit;margin:0;}
+.zhi_tit.home{display:none;}
+
+.goods-nav li.current-menu-item {
+    border-bottom: 2px solid #fc5202;
+}
+.goods-nav li.current-menu-item a {
+    color: #fc5202;
+    font-weight: 700;
+}
+#menu-pc-1.goods-nav li:last-child{display:none;}
+
+
+@media screen and (max-width:480px){
+    .grid-quan .type-2-link{width:42%;}
+    .grid-home .grid_buy_btn{bottom:12.9%;width:46%;}
+    .zhi_grid .grid_price .biz30day{top:4px;}
+}
