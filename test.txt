@@ -1,5 +1,5 @@
-[xndeye Adblock List]
-! Title: dns.txt
+[List]
+! Title: 白名单
 ! Last Modified: 2024-05-15 00:18:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
