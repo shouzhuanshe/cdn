@@ -1,10 +1,8 @@
-[Adblock Plus 2.0]
-! Title: GOODBYEADS
-! Homepage: https://github.com/8680/GOODBYEADS
-! Expires: 12 Hours
-! Version: 2024-05-14 20:33:37（北京时间）
-! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 4179
+[xndeye Adblock List]
+! Title: dns.txt
+! Last Modified: 2024-05-15 00:18:59
+! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+
 @@||dns.weixin.qq.com.cn^
 @@||amdc.alipay.com^
 @@||app-monitor.ele.me^
