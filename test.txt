@@ -1,7 +1,7 @@
 [List]
 ! Title: 白名单
 ! Last Modified: 2024-05-15 00:18:59
-! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+! Homepage: https://github.com/shouzhuanshe/cdn/blob/71f3cbf577d5cd3f3ca57c94e73f1a9f1114668a/test.txt
 
 @@||dns.weixin.qq.com.cn^
 @@||amdc.alipay.com^
