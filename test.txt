@@ -24,3 +24,6 @@
 @@||ynuf.aliapp.org^
 @@||tracking.miui.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
+@@||cc.map.qq.com^
+@@||cgicol.amap.com^
+@@||vectorsdk.map.qq.com^
