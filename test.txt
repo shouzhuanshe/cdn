@@ -27,3 +27,9 @@
 @@||cc.map.qq.com^
 @@||cgicol.amap.com^
 @@||vectorsdk.map.qq.com^
+@@||policy.jd.com^
+@@||blackhole.m.jd.com^
+@@||amdc.m.taobao.com^
+@@||wxa.wxs.qq.com^
+@@||76177.activity-12.m.duiba.com.cn^
+@@||lhp.map.qq.com^
